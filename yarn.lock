@@ -52,10 +52,10 @@
     "@babel/helper-validator-identifier" "^7.22.20"
     to-fast-properties "^2.0.0"
 
-"@discoxyz/selective-disclosure@^0.0.9-alpha.1":
-  version "0.0.9-alpha.1"
-  resolved "https://registry.yarnpkg.com/@discoxyz/selective-disclosure/-/selective-disclosure-0.0.9-alpha.1.tgz#95420f14a636a01adf8991068b58edd7b50697c1"
-  integrity sha512-NIpkSroOrxcTiWKtU9KhkUQVaflidQNRLqv3oI7x+83POJ/XPo1eUxxIjgYuEvYFBfs6EelX++6B27eMFyrAOA==
+"@discoxyz/selective-disclosure@^0.1.0-alpha.1":
+  version "0.1.0-alpha.1"
+  resolved "https://registry.yarnpkg.com/@discoxyz/selective-disclosure/-/selective-disclosure-0.1.0-alpha.1.tgz#7f233c2fd72fc603fec3428fcb9b535c1a89df9f"
+  integrity sha512-iCp+0SwdnucxJWJfhcaXAidWl154iDqTx4czSHcP8dTEi2lIYpudQQRq5p0zzB6af1A1Gh3uGv4/wTSe2yv5oQ==
   dependencies:
     "@krakenjs/post-robot" "^11.0.0"
     "@mui/material" "^5.14.18"
